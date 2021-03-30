@@ -1,0 +1,10 @@
+Alien Invasion bugs/feature requests:
+
+BUGS:
+- when hitting 'p' to play a new game, the alien speed (probably the other speeds too) does not reset. This does not happen when the user presses the 'Play' button to restart.
+
+
+FEATURE REQUESTS:
+- How about a 'pause' button to pause gameplay?
+- Add Your Score' and High Score' labels?
+- Determine a way to store the high score so it is retained after the game has been exited. I think the book will offer some tips on this.
